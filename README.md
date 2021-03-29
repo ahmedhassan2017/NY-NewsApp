@@ -68,6 +68,7 @@ implementation 'com.android.support:cardview-v7:30.0.0'
 implementation 'de.hdodenhof:circleimageview:3.1.0'
 // picasso
 implementation 'com.squareup.picasso:picasso:2.71828'
+// truth
 testImplementation "com.google.truth:truth:1.0.1"
 androidTestImplementation "com.google.truth:truth:1.0.1"
 //Mockk
