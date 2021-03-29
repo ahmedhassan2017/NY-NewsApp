@@ -1,4 +1,4 @@
-# NyTimes
+# NyTask
 NT times is a simple news app that presents news in a friendly list that leads you to details screen by one click, just connect to internet and be in the eye of the hurricane.
 
 
