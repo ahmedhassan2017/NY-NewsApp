@@ -7,7 +7,7 @@ App Built with :
 * MVVM Design Architecture
 * Kotlin language
 * Object oriented programming
-* Simple Code
+* Simple clean Code
 
 The android app lets you:
 * View updated news
