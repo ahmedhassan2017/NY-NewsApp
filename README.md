@@ -1,10 +1,11 @@
-# NyTask
+# Ny NewsAPP
 NT times is a simple news app that presents news in a friendly list that leads you to details screen by one click, just connect to internet and be in the eye of the hurricane.
 
 
 # Features
 App Built with :
 * MVVM Design Architecture
+* RX Java
 * Kotlin language
 * Object oriented programming
 * Simple clean Code
@@ -74,6 +75,10 @@ androidTestImplementation "com.google.truth:truth:1.0.1"
 //Mockk
 testImplementation "io.mockk:mockk:1.9.3"
 androidTestImplementation 'android.arch.core:core-testing:1.1.1'
+// RxJava
+implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
+implementation 'io.reactivex.rxjava3:rxjava:3.0.0'
+implementation 'com.squareup.retrofit2:adapter-rxjava3:2.9.0'
 
 ```
 ## Contributing
